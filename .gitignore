@@ -1,5 +1,6 @@
 index.php
 .htaccess
+.DS_Store
 /app/.htaccess
 /app/index.php
 /app/license.txt
