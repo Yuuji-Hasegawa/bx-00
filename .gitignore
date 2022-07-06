@@ -1,3 +1,5 @@
+index.php
+.htaccess
 /app/.htaccess
 /app/index.php
 /app/license.txt
@@ -15,4 +17,3 @@
 !/app/wp-content/themes/bx-00_dev/**/*
 /app/wp-content/themes/bx-00_dev/node_modules
 /app/wp-content/themes/bx-00_dev/pnpm-loack.yaml
-index.php
